@@ -5,3 +5,5 @@ forkify is a course project designed for [The Complete JavaScript Course 2021: F
 ### Demo
 
 - [Here you can find the final version of this project.](https://forkify-kalender.netlify.app/)
+
+![forkify-ss](https://user-images.githubusercontent.com/76654335/112961984-9187ba00-914e-11eb-9412-a2ce323295bb.png)
